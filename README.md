@@ -1,6 +1,6 @@
-# Live Project Url: https://react-music-player-by-sohrab.web.app/
+## Live Project Url: https://react-music-player-by-sohrab.web.app/
 
-## Project Overview
+# Project Overview
 ![image](https://user-images.githubusercontent.com/18021576/104117129-f77f5500-5348-11eb-8636-5c51b31a777f.png)
 
 ![image](https://user-images.githubusercontent.com/18021576/104117135-0108bd00-5349-11eb-97c6-7b0d2f91c49a.png)
